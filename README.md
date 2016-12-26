@@ -6,4 +6,4 @@
 - npm install --save hammerjs 
 - ng server
 - 打开浏览器localhost:4200
-##  angular2.0,angular-material2.0
+
